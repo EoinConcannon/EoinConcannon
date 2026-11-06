@@ -14,9 +14,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 
-**Testing & delivery:** JUnit, Selenium, Jest, GitHub Actions
-**Process:** Agile, Scrum, Kanban, Jira
-
 ## Featured projects
 
 - **[MediTracker](https://github.com/EoinConcannon/MediTracker)**: patient health monitoring system built from four independent Spring Boot microservices, each with its own MySQL database, containerised with Docker. React client with patient and doctor dashboards, appointment booking and allergy conflict detection.
